@@ -9,7 +9,7 @@ This will send the message what you want to send to a person.
 
 ## Installation and Setup Instructions:
 
-#### Clone down this repository. You will need python, Tkinter amd Selenium installed globally on your machine or in a virutal environment.
+#### Clone down this repository. You will need python, Tkinter and Selenium installed globally on your machine or in a virutal environment.
 
 git clone https://github.com/karthik-dasari/Whatsapp-message-sender-in-Tkinter.git
 
